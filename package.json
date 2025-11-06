@@ -5,22 +5,31 @@
   "scripts": {
     "dev": "next dev --webpack",
     "build": "next build --webpack",
-    "start": "next start",
-    "lint": "eslint"
+    "start": "next start -p 8001",
+    "lint": "eslint",
+    "import-data": "tsx scripts/import-data.ts"
   },
   "dependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "mongoose": "^8.19.2",
+    "next": "16.0.1",
+    "next-intl": "^4.4.0",
+    "openai": "^6.8.1",
     "react": "19.2.0",
     "react-dom": "19.2.0",
-    "next": "16.0.1"
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
     "eslint": "^9",
-    "eslint-config-next": "16.0.1"
+    "eslint-config-next": "16.0.1",
+    "puppeteer": "^24.29.0",
+    "tailwindcss": "^4",
+    "tsx": "^4.20.6",
+    "typescript": "^5"
   }
 }

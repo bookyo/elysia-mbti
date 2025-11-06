@@ -1,0 +1,188 @@
+{
+  "site": {
+    "title": "Test de Personalidad MBTI con Asesoramiento IA",
+    "description": "Descubre tu tipo de personalidad con la evaluación MBTI y obtén consejos personalizados con IA para carrera, relaciones y crecimiento personal",
+    "logo": "Test MBTI IA"
+  },
+  "nav": {
+    "home": "Inicio",
+    "test": "Hacer Test",
+    "personalities": "Tipos de Personalidad"
+  },
+  "hero": {
+    "title": "Descubre Tu Verdadero Tipo de Personalidad",
+    "subtitle": "Explora tus rasgos de personalidad y potencial con el test científico MBTI",
+    "startTest": "Comenzar Test",
+    "learnMore": "Aprender Más"
+  },
+  "personalities": {
+    "title": "16 Tipos de Personalidad",
+    "subtitle": "Explora diferentes tipos de personalidad y entiéndete a ti mismo y a los demás",
+    "exploreOtherTypes": "Explorar Otros Tipos de Personalidad"
+  },
+  "test": {
+    "title": "Test de Personalidad MBTI",
+    "description": "Responde las siguientes preguntas para descubrir tu tipo de personalidad",
+    "question": "Pregunta",
+    "of": "de",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "finish": "Finalizar Test",
+    "progress": "Progreso",
+    "loadingQuestions": "Por favor, espera mientras preparamos tu prueba..."
+  },
+  "result": {
+    "title": "Tu Tipo de Personalidad es",
+    "subtitle": "Aprende más sobre tus rasgos de personalidad",
+    "viewFullProfile": "Ver Perfil Completo",
+    "retakeTest": "Repetir Test",
+    "shareResult": "Compartir Resultado"
+  },
+  "personality": {
+    "backToResults": "Volver a Resultados",
+    "shareProfile": "Compartir Perfil"
+  },
+  "common": {
+    "learnMore": "Aprender Más",
+    "loading": "Cargando...",
+    "error": "Error",
+    "retry": "Reintentar",
+    "backToHome": "Volver al Inicio",
+    "cancel": "Cancelar",
+    "close": "Cerrar"
+  },
+  "footer": {
+    "test": "Prueba",
+    "description": "Descubra su tipo de personalidad con nuestra evaluación MBTI basada en la ciencia. Gratuita, precisa y confidencial.",
+    "quickLinks": "Enlaces rápidos",
+    "legal": "Legal",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "contact": "Contáctenos",
+    "privacyProtected": "Su privacidad está protegida. No recopilamos ni almacenamos ningún dato personal.",
+    "allRightsReserved": "Todos los derechos reservados."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "description": "Nuestra política de privacidad y cómo protegemos sus datos",
+    "lastUpdated": "Última actualización",
+    "introduction": {
+      "title": "Introducción",
+      "content": "En ElysiaTools, nos comprometemos a proteger su privacidad. Esta Política de privacidad explica cómo manejamos los datos cuando utiliza nuestro servicio de prueba de personalidad MBTI."
+    },
+    "dataCollection": {
+      "title": "Recopilación de datos",
+      "noData": "No recopilamos ninguna información personal ni almacenamos ningún dato de usuario.",
+      "content": "Nuestra prueba MBTI es completamente anónima. No requerimos registro, direcciones de correo electrónico, nombres ni ninguna otra información personal. Sus respuestas a la prueba se procesan localmente en su navegador y no se transmiten a nuestros servidores."
+    },
+    "dataUsage": {
+      "title": "Cómo usamos los datos",
+      "content": "Como no recopilamos ningún dato personal, no utilizamos su información para ningún propósito. Los resultados de la prueba MBTI se generan localmente en su navegador y no se almacenan ni transmiten a ningún lado."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Nuestro sitio web no utiliza cookies para rastrear o almacenar información personal. Las únicas cookies utilizadas son esenciales para el correcto funcionamiento del sitio, como mantener su preferencia de idioma."
+    },
+    "thirdParty": {
+      "title": "Servicios de terceros",
+      "content": "No compartimos información con terceros, ya que no recopilamos ningún dato personal en primer lugar."
+    },
+    "security": {
+      "title": "Seguridad de los datos",
+      "content": "Como no recopilamos ni almacenamos ningún dato personal, no hay riesgo de violación de datos. Su privacidad y anonimato están completamente protegidos."
+    },
+    "rights": {
+      "title": "Sus derechos",
+      "content": "Como no recopilamos ningún dato personal, no necesita preocuparse por las solicitudes de eliminación, modificación o acceso a los datos. Su uso de nuestro servicio es completamente anónimo."
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "content": "Si tiene alguna pregunta sobre esta Política de privacidad o nuestras prácticas de privacidad, contáctenos en:",
+      "email": "Correo electrónico"
+    },
+    "changes": {
+      "title": "Cambios a la política",
+      "content": "Podemos actualizar esta Política de privacidad de vez en cuando. Cualquier cambio se reflejará en esta página con una fecha de \"Última actualización\" actualizada."
+    }
+  },
+  "terms": {
+    "title": "Términos de servicio",
+    "description": "Los términos y condiciones para usar nuestra prueba de personalidad MBTI",
+    "lastUpdated": "Última actualización",
+    "acceptance": {
+      "title": "Aceptación de los términos",
+      "content": "Al acceder y utilizar el servicio de prueba de personalidad MBTI de ElysiaTools, usted acepta y se compromete a cumplir los términos y condiciones de este acuerdo."
+    },
+    "service": {
+      "title": "Descripción del servicio",
+      "content": "ElysiaTools proporciona un servicio gratuito de prueba de personalidad MBTI diseñado para ayudar a las personas a comprender sus preferencias de personalidad. La prueba se basa en el marco del Indicador de tipo de Myers-Briggs y está destinada únicamente a fines educativos y de autodescubrimiento.",
+      "disclaimer": "Este servicio está destinado únicamente a fines de entretenimiento y educativos y no debe considerarse un sustituto de la evaluación psicológica profesional."
+    },
+    "usage": {
+      "title": "Términos de uso",
+      "freeService": "El servicio se proporciona de forma gratuita y es accesible para todos los usuarios.",
+      "accuracy": "Los resultados de la prueba se basan en sus respuestas y están destinados a proporcionar información personal y autodescubrimiento.",
+      "noProfessional": "Esta prueba no es una evaluación psicológica profesional y no debe utilizarse para la toma de decisiones clínicas, laborales u otras decisiones importantes.",
+      "responsibility": "Usted es responsable de cómo interpreta y utiliza los resultados de la prueba."
+    },
+    "privacy": {
+      "title": "Protección de la privacidad",
+      "noData": "No recopilamos, almacenamos ni compartimos ninguna información personal o datos de prueba.",
+      "content": "Su privacidad está completamente protegida. La prueba MBTI procesa todas las respuestas localmente dentro de su navegador. No se transmiten datos personales, respuestas de prueba o resultados a nuestros servidores ni se almacenan en nuestras bases de datos."
+    },
+    "disclaimer": {
+      "title": "Descargo de responsabilidad",
+      "important": "Aviso importante",
+      "educationalOnly": "Esta prueba MBTI está destinada únicamente a fines educativos y de entretenimiento.",
+      "notProfessional": "No es un sustituto de la evaluación o el consejo psicológico profesional.",
+      "noGuarantee": "No garantizamos la precisión o fiabilidad de los resultados de la prueba.",
+      "importantDecisions": "No tome decisiones importantes en la vida basándose únicamente en los resultados de esta prueba."
+    },
+    "intellectual": {
+      "title": "Propiedad intelectual",
+      "content": "El contenido, el diseño y la funcionalidad del servicio son propiedad de ElysiaTools y están protegidos por derechos de autor, marcas comerciales y otras leyes de propiedad intelectual. No puede copiar, modificar, distribuir o crear trabajos derivados sin nuestro permiso expreso."
+    },
+    "liability": {
+      "title": "Limitación de responsabilidad",
+      "content": "En la máxima medida permitida por la ley, ElysiaTools no será responsable de ningún daño indirecto, incidental, especial o consecuente que surja del uso del servicio."
+    },
+    "changes": {
+      "title": "Cambios en el servicio",
+      "content": "Nos reservamos el derecho de modificar, suspender o descontinuar el servicio en cualquier momento sin previo aviso. No seremos responsables ante usted ni ante ningún tercero por ninguna modificación, suspensión o interrupción del servicio."
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "content": "Si tiene alguna pregunta sobre estos Términos de servicio, contáctenos en:",
+      "email": "Correo electrónico"
+    },
+    "modification": {
+      "title": "Modificación de los términos",
+      "content": "Podemos modificar estos Términos de servicio en cualquier momento sin previo aviso. Al utilizar este servicio, usted acepta estar sujeto a la versión actual de estos Términos de servicio."
+    }
+  },
+  "ai": {
+    "advice": {
+      "title": "Asesoramiento Personalizado con IA",
+      "subtitle": "Obtén consejos personalizados basados en tu tipo de MBTI e información personal",
+      "age": "Edad",
+      "agePlaceholder": "Ingresa tu edad",
+      "gender": "Género",
+      "selectGender": "Seleccionar género",
+      "male": "Masculino",
+      "female": "Femenino",
+      "other": "Otro",
+      "preferNotToSay": "Prefiero no decirlo",
+      "occupation": "Ocupación",
+      "occupationPlaceholder": "ej., Ingeniero de Software, Maestro, Estudiante",
+      "interests": "Intereses y Pasatiempos",
+      "interestsPlaceholder": "ej., Leer, Deportes, Música, Tecnología",
+      "goals": "Metas de Vida Actuales",
+      "goalsPlaceholder": "Describe tus metas de vida actuales, lo que quieres lograr, o áreas donde necesitas orientación...",
+      "yourPersonalityType": "Tu Tipo de Personalidad",
+      "personalityBasedAdvice": "Los consejos se adaptarán específicamente a tu tipo de personalidad",
+      "getAdvice": "Obtener Asesoramiento de IA",
+      "generating": "Generando consejos personalizados...",
+      "back": "Volver al Formulario"
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "site": {
+    "title": "MBTI人格测试与AI建议",
+    "description": "通过MBTI评估发现您的性格类型，并获得AI驱动的个性化职业、人际关系和个人成长建议",
+    "logo": "MBTI AI测试"
+  },
+  "nav": {
+    "home": "首页",
+    "test": "开始测试",
+    "personalities": "人格类型"
+  },
+  "hero": {
+    "title": "发现您的真实性格类型",
+    "subtitle": "通过科学的MBTI测试，深入了解您的性格特征和潜力",
+    "startTest": "开始测试",
+    "learnMore": "了解更多"
+  },
+  "personalities": {
+    "title": "16种人格类型",
+    "subtitle": "探索不同的人格类型，了解您与他人",
+    "exploreOtherTypes": "探索其他人格类型"
+  },
+  "test": {
+    "title": "MBTI人格测试",
+    "description": "回答以下问题，发现您的性格类型",
+    "question": "问题",
+    "of": "/",
+    "next": "下一题",
+    "previous": "上一题",
+    "finish": "完成测试",
+    "progress": "进度",
+    "loadingQuestions": "请稍候，我们正在为您准备测试..."
+  },
+  "result": {
+    "title": "您的性格类型是",
+    "subtitle": "了解您的性格特征",
+    "viewFullProfile": "查看完整档案",
+    "retakeTest": "重新测试",
+    "shareResult": "分享结果"
+  },
+  "personality": {
+    "backToResults": "返回结果",
+    "shareProfile": "分享档案"
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "loading": "加载中...",
+    "error": "错误",
+    "retry": "重试",
+    "backToHome": "返回首页",
+    "cancel": "取消",
+    "close": "关闭"
+  },
+  "footer": {
+    "test": "测试",
+    "description": "通过我们基于科学的MBTI评估发现您的性格类型。免费、准确且保密。",
+    "quickLinks": "快速链接",
+    "legal": "法律信息",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "contact": "联系我们",
+    "privacyProtected": "您的隐私受到保护。我们不收集或存储任何个人数据。",
+    "allRightsReserved": "保留所有权利。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "description": "我们的隐私政策以及我们如何保护您的数据",
+    "lastUpdated": "最后更新",
+    "introduction": {
+      "title": "介绍",
+      "content": "在ElysiaTools，我们致力于保护您的隐私。本隐私政策解释了当您使用我们的MBTI性格测试服务时，我们如何处理数据。"
+    },
+    "dataCollection": {
+      "title": "数据收集",
+      "noData": "我们不收集任何个人信息或存储任何用户数据。",
+      "content": "我们的MBTI测试是完全匿名的。我们不要求注册、电子邮件地址、姓名或任何其他个人信息。您的测试响应在您的浏览器中本地处理，不会传输到我们的服务器。"
+    },
+    "dataUsage": {
+      "title": "我们如何使用数据",
+      "content": "由于我们不收集任何个人数据，我们不会出于任何目的使用您的信息。MBTI测试结果在您的浏览器中本地生成，不会存储或传输到任何地方。"
+    },
+    "cookies": {
+      "title": "Cookie",
+      "content": "我们的网站不使用Cookie来跟踪或存储个人信息。唯一使用的Cookie是网站正常运行所必需的，例如维护您的语言偏好。"
+    },
+    "thirdParty": {
+      "title": "第三方服务",
+      "content": "我们不会与任何第三方共享信息，因为我们从一开始就不收集任何个人数据。"
+    },
+    "security": {
+      "title": "数据安全",
+      "content": "由于我们不收集或存储任何个人数据，不存在数据泄露的风险。您的隐私和匿名性得到完全保护。"
+    },
+    "rights": {
+      "title": "您的权利",
+      "content": "由于我们不收集任何个人数据，您无需担心数据删除、修改或访问请求。您对我们的服务的使用是完全匿名的。"
+    },
+    "contact": {
+      "title": "联系我们",
+      "content": "如果您对本隐私政策或我们的隐私实践有任何疑问，请联系我们：",
+      "email": "邮箱"
+    },
+    "changes": {
+      "title": "政策变更",
+      "content": "我们可能会不时更新此隐私政策。任何变更将在此页面反映，并带有更新的\"最后更新\"日期。"
+    }
+  },
+  "terms": {
+    "title": "服务条款",
+    "description": "使用我们MBTI性格测试的条款和条件",
+    "lastUpdated": "最后更新",
+    "acceptance": {
+      "title": "接受条款",
+      "content": "通过访问和使用ElysiaTools MBTI性格测试服务，您接受并同意受本协议条款和条款的约束。"
+    },
+    "service": {
+      "title": "服务描述",
+      "content": "ElysiaTools提供免费的MBTI性格测试服务，旨在帮助个人了解他们的性格偏好。该测试基于迈尔斯-布里格斯类型指标框架，仅用于教育和自我发现目的。",
+      "disclaimer": "此服务仅用于娱乐和教育目的，不应作为专业心理评估的替代品。"
+    },
+    "usage": {
+      "title": "使用条款",
+      "freeService": "该服务免费提供，所有用户都可以使用。",
+      "accuracy": "测试结果基于您的响应，旨在为个人洞察和自我发现。",
+      "noProfessional": "此测试不是专业心理评估，不应用于临床、就业或其他重要决策。",
+      "responsibility": "您对如何解释和使用测试结果负责。"
+    },
+    "privacy": {
+      "title": "隐私保护",
+      "noData": "我们不收集、存储或共享任何个人信息或测试数据。",
+      "content": "您的隐私得到完全保护。MBTI测试在您的浏览器中本地处理所有响应。没有个人数据、测试响应或结果传输到我们的服务器或存储在我们的数据库中。"
+    },
+    "disclaimer": {
+      "title": "免责声明",
+      "important": "重要通知",
+      "educationalOnly": "此MBTI测试仅用于教育和娱乐目的。",
+      "notProfessional": "它不是专业心理评估或建议的替代品。",
+      "noGuarantee": "我们不保证测试结果的准确性或可靠性。",
+      "importantDecisions": "不要仅根据这些测试结果做出重要的人生决定。"
+    },
+    "intellectual": {
+      "title": "知识产权",
+      "content": "该服务的内容、设计和功能归ElysiaTools所有，受版权、商标和其他知识产权法保护。未经我们的明确许可，您不得复制、修改、分发或创建衍生作品。"
+    },
+    "liability": {
+      "title": "责任限制",
+      "content": "在法律允许的最大范围内，ElysiaTools对因使用本服务而产生的任何间接、偶然、特殊或后果性损害不承担责任。"
+    },
+    "changes": {
+      "title": "服务变更",
+      "content": "我们保留随时修改、暂停或终止服务的权利，恕不另行通知。对于服务的任何修改、暂停或终止，我们不对您或任何第三方承担责任。"
+    },
+    "contact": {
+      "title": "联系我们",
+      "content": "如果您对这些服务条款有任何疑问，请联系我们：",
+      "email": "邮箱"
+    },
+    "modification": {
+      "title": "条款修改",
+      "content": "我们可能会随时修改这些服务条款，恕不另行通知。通过使用此服务，您同意受当时有效的这些服务条款版本的约束。"
+    }
+  },
+  "ai": {
+    "advice": {
+      "title": "AI个性化建议",
+      "subtitle": "基于您的MBTI性格类型和个人信息获取个性化建议",
+      "age": "年龄",
+      "agePlaceholder": "请输入您的年龄",
+      "gender": "性别",
+      "selectGender": "选择性别",
+      "male": "男性",
+      "female": "女性",
+      "other": "其他",
+      "preferNotToSay": "不愿透露",
+      "occupation": "职业",
+      "occupationPlaceholder": "例如：软件工程师、教师、学生",
+      "interests": "兴趣爱好",
+      "interestsPlaceholder": "例如：阅读、运动、音乐、科技",
+      "goals": "当前人生目标",
+      "goalsPlaceholder": "描述您当前的人生目标、想要实现的事情，或需要指导的领域...",
+      "yourPersonalityType": "您的性格类型",
+      "personalityBasedAdvice": "建议将根据您的性格类型进行专门定制",
+      "getAdvice": "获取AI建议",
+      "generating": "正在生成个性化建议...",
+      "back": "返回表单"
+    }
+  }
+}

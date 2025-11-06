@@ -1,0 +1,188 @@
+{
+  "site": {
+    "title": "MBTI Personality Test with AI Advice",
+    "description": "Discover your personality type with MBTI assessment and get personalized AI-powered advice for career, relationships, and personal growth",
+    "logo": "MBTI AI Test"
+  },
+  "nav": {
+    "home": "Home",
+    "test": "Take Test",
+    "personalities": "Personality Types"
+  },
+  "hero": {
+    "title": "Discover Your True Personality Type",
+    "subtitle": "Explore your personality traits and potential with scientific MBTI testing",
+    "startTest": "Start Test",
+    "learnMore": "Learn More"
+  },
+  "personalities": {
+    "title": "16 Personality Types",
+    "subtitle": "Explore different personality types and understand yourself and others",
+    "exploreOtherTypes": "Explore Other Personality Types"
+  },
+  "test": {
+    "title": "MBTI Personality Test",
+    "description": "Answer the following questions to discover your personality type",
+    "question": "Question",
+    "of": "of",
+    "next": "Next",
+    "previous": "Previous",
+    "finish": "Finish Test",
+    "progress": "Progress",
+    "loadingQuestions": "Please wait while we prepare your test..."
+  },
+  "result": {
+    "title": "Your Personality Type is",
+    "subtitle": "Learn more about your personality traits",
+    "viewFullProfile": "View Full Profile",
+    "retakeTest": "Retake Test",
+    "shareResult": "Share Result"
+  },
+  "personality": {
+    "backToResults": "Back to Results",
+    "shareProfile": "Share Profile"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "backToHome": "Back to Home",
+    "cancel": "Cancel",
+    "close": "Close"
+  },
+  "footer": {
+    "test": "Test",
+    "description": "Discover your personality type with our scientifically-based MBTI assessment. Free, accurate, and confidential.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us",
+    "privacyProtected": "Your privacy is protected. We do not collect or store any personal data.",
+    "allRightsReserved": "All rights reserved."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "Our privacy policy and how we protect your data",
+    "lastUpdated": "Last Updated",
+    "introduction": {
+      "title": "Introduction",
+      "content": "At ElysiaTools, we are committed to protecting your privacy. This Privacy Policy explains how we handle data when you use our MBTI personality test service."
+    },
+    "dataCollection": {
+      "title": "Data Collection",
+      "noData": "We do not collect any personal information or store any user data.",
+      "content": "Our MBTI test is completely anonymous. We do not require registration, email addresses, names, or any other personal information. Your test responses are processed locally in your browser and are not transmitted to our servers."
+    },
+    "dataUsage": {
+      "title": "How We Use Data",
+      "content": "Since we do not collect any personal data, we do not use your information for any purpose. The MBTI test results are generated locally in your browser and are not stored or transmitted anywhere."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Our website does not use cookies to track or store personal information. The only cookies used are essential for the website to function properly, such as maintaining your language preference."
+    },
+    "thirdParty": {
+      "title": "Third-Party Services",
+      "content": "We do not share any information with third parties, as we do not collect any personal data to begin with."
+    },
+    "security": {
+      "title": "Data Security",
+      "content": "Since we do not collect or store any personal data, there is no risk of data breaches. Your privacy and anonymity are completely protected."
+    },
+    "rights": {
+      "title": "Your Rights",
+      "content": "Since we do not collect any personal data, you do not need to worry about data deletion, modification, or access requests. Your use of our service is completely anonymous."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this Privacy Policy or our privacy practices, please contact us:",
+      "email": "Email"
+    },
+    "changes": {
+      "title": "Changes to This Policy",
+      "content": "We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated 'Last Updated' date."
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "description": "Terms and conditions for using our MBTI personality test",
+    "lastUpdated": "Last Updated",
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "By accessing and using ElysiaTools MBTI personality test service, you accept and agree to be bound by the terms and provision of this agreement."
+    },
+    "service": {
+      "title": "Service Description",
+      "content": "ElysiaTools provides a free MBTI personality test service designed to help individuals understand their personality preferences. The test is based on the Myers-Briggs Type Indicator framework and is provided for educational and self-discovery purposes.",
+      "disclaimer": "This service is provided for entertainment and educational purposes only and should not be used as a substitute for professional psychological assessment."
+    },
+    "usage": {
+      "title": "Terms of Use",
+      "freeService": "The service is provided free of charge and is available to all users.",
+      "accuracy": "The test results are based on your responses and are meant for personal insight and self-discovery.",
+      "noProfessional": "This test is not a professional psychological evaluation and should not be used for clinical, employment, or other important decisions.",
+      "responsibility": "You are responsible for how you interpret and use the test results."
+    },
+    "privacy": {
+      "title": "Privacy Protection",
+      "noData": "We do not collect, store, or share any personal information or test data.",
+      "content": "Your privacy is completely protected. The MBTI test processes all responses locally in your browser. No personal data, test responses, or results are transmitted to our servers or stored in our databases."
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "important": "Important Notice",
+      "educationalOnly": "This MBTI test is for educational and entertainment purposes only.",
+      "notProfessional": "It is not a substitute for professional psychological assessment or advice.",
+      "noGuarantee": "We do not guarantee the accuracy or reliability of the test results.",
+      "importantDecisions": "Do not make important life decisions based solely on these test results."
+    },
+    "intellectual": {
+      "title": "Intellectual Property",
+      "content": "The content, design, and functionality of this service are owned by ElysiaTools and are protected by copyright, trademark, and other intellectual property laws. You may not copy, modify, distribute, or create derivative works without our explicit permission."
+    },
+    "liability": {
+      "title": "Limitation of Liability",
+      "content": "To the maximum extent permitted by law, ElysiaTools shall not be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with your use of this service."
+    },
+    "changes": {
+      "title": "Service Changes",
+      "content": "We reserve the right to modify, suspend, or discontinue the service at any time without prior notice. We are not liable to you or any third party for any modification, suspension, or discontinuation of the service."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about these Terms of Service, please contact us:",
+      "email": "Email"
+    },
+    "modification": {
+      "title": "Modification of Terms",
+      "content": "We may revise these terms of service at any time without notice. By using this service, you are agreeing to be bound by the then-current version of these terms of service."
+    }
+  },
+  "ai": {
+    "advice": {
+      "title": "AI Personalized Advice",
+      "subtitle": "Get personalized advice based on your MBTI type and personal information",
+      "age": "Age",
+      "agePlaceholder": "Enter your age",
+      "gender": "Gender",
+      "selectGender": "Select gender",
+      "male": "Male",
+      "female": "Female",
+      "other": "Other",
+      "preferNotToSay": "Prefer not to say",
+      "occupation": "Occupation",
+      "occupationPlaceholder": "e.g., Software Engineer, Teacher, Student",
+      "interests": "Interests & Hobbies",
+      "interestsPlaceholder": "e.g., Reading, Sports, Music, Technology",
+      "goals": "Current Life Goals",
+      "goalsPlaceholder": "Describe your current life goals, what you want to achieve, or areas where you want guidance...",
+      "yourPersonalityType": "Your Personality Type",
+      "personalityBasedAdvice": "Advice will be tailored specifically for your personality type",
+      "getAdvice": "Get AI Advice",
+      "generating": "Generating personalized advice...",
+      "back": "Back to Form"
+    }
+  }
+}
