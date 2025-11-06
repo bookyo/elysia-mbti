@@ -5,13 +5,16 @@ A comprehensive MBTI personality test application featuring multilingual support
 ## 🌟 Features
 
 ### Core Functionality
+
 - **Free MBTI Personality Test**: 70-question assessment based on Myers-Briggs Type Indicator
 - **16 Personality Types**: Detailed descriptions and insights for all MBTI types
 - **AI-Powered Advice**: Get personalized career, relationship, and personal development recommendations
 - **Complete Privacy**: No data collection, registration, or personal information storage
 
 ### Multilingual Support
+
 Available in 7 languages:
+
 - 🇺🇸 English
 - 🇨🇳 简体中文
 - 🇩🇪 Deutsch
@@ -21,6 +24,7 @@ Available in 7 languages:
 - 🇷🇺 Русский
 
 ### Technical Features
+
 - **Modern UI**: Responsive design with Tailwind CSS
 - **SEO Optimized**: Multilingual metadata and search engine friendly
 - **Progressive Web App**: Optimized for all devices
@@ -33,37 +37,41 @@ Visit our live application: **[https://mbti.elysiatools.com](https://mbti.elysia
 
 ## 📋 Prerequisites
 
-- Node.js 18+ 
+- Node.js 18+
 - MongoDB database
 - OpenRouter API key (for AI advice feature)
 
 ## 🛠️ Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone <repository-url>
    cd mbti-test
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Environment variables**
    Copy `.env.local.example` to `.env.local` and configure:
+
    ```env
    # MongoDB
    MONGODB_URI=mongodb://localhost:27017/mbti-test
-   
+
    # OpenRouter API (optional, for AI advice)
    OPENROUTER_API_KEY=your_openrouter_api_key
-   
+
    # Site configuration
    NEXT_PUBLIC_SITE_URL=http://localhost:3000
    ```
 
 4. **Database setup**
+
    ```bash
    # Import personality data and test questions
    npm run import-data
@@ -79,9 +87,10 @@ Visit `http://localhost:3000` to view the application.
 ## 📊 Database Structure
 
 ### Personalities Collection
+
 ```typescript
 {
-  type: "ENFJ" | "ENFP" | "ENTJ" | "ENTP" | "ESFJ" | "ESFP" | "ESTJ" | "ESTP" | 
+  type: "ENFJ" | "ENFP" | "ENTJ" | "ENTP" | "ESFJ" | "ESFP" | "ESTJ" | "ESTP" |
         "INFJ" | "INFP" | "INTJ" | "INTP" | "ISFJ" | "ISFP" | "ISTJ" | "ISTP",
   language: "zh" | "en" | "de" | "es" | "fr" | "pt" | "ru",
   title: string,
@@ -92,6 +101,7 @@ Visit `http://localhost:3000` to view the application.
 ```
 
 ### Test Questions Collection
+
 ```typescript
 {
   id: number,           // 1-70
@@ -108,25 +118,30 @@ Visit `http://localhost:3000` to view the application.
 The application uses standard MBTI Form M scoring rules:
 
 ### Dimensions
+
 - **E/I** (Extraversion/Introversion)
-- **S/N** (Sensing/Intuition) 
+- **S/N** (Sensing/Intuition)
 - **T/F** (Thinking/Feeling)
 - **J/P** (Judging/Perceiving)
 
 ### Calculation
+
 Each question is mapped to specific personality traits based on established MBTI patterns. The scoring algorithm analyzes responses across 70 questions to determine the most suitable personality type.
 
 ## 🔧 API Endpoints
 
 ### Personalities
+
 - `GET /api/personalities` - Get all personality types
 - `GET /api/personality/[type]` - Get specific personality details
 
 ### Test Questions
+
 - `GET /api/test-questions` - Get all test questions
 - `POST /api/test-questions/calculate` - Calculate MBTI type from answers
 
 ### AI Advice
+
 - `POST /api/ai/advice` - Get personalized AI advice (streaming)
 
 ## 🌍 Internationalization
@@ -151,12 +166,15 @@ The application supports 7 languages with complete translation files:
 ## 🎨 Design System
 
 ### Color Palette
+
 Each personality type has a unique gradient color scheme for visual distinction.
 
 ### Typography
+
 Uses Tailwind CSS Typography v4 for optimal content readability and markdown rendering.
 
 ### Responsive Design
+
 - Mobile-first approach
 - Tailwind CSS breakpoints
 - Optimized for all screen sizes
@@ -164,6 +182,7 @@ Uses Tailwind CSS Typography v4 for optimal content readability and markdown ren
 ## 🔒 Privacy & Security
 
 ### Privacy Commitment
+
 - **No Data Collection**: We don't collect any personal information
 - **No Registration**: Use the test anonymously
 - **Local Processing**: Test responses processed in browser only
@@ -171,6 +190,7 @@ Uses Tailwind CSS Typography v4 for optimal content readability and markdown ren
 - **Complete Anonymity**: Your results are private
 
 ### Data Handling
+
 - Test responses processed locally in browser
 - AI advice requests are anonymous
 - No personal data stored in databases
@@ -179,18 +199,21 @@ Uses Tailwind CSS Typography v4 for optimal content readability and markdown ren
 ## 🚀 Deployment
 
 ### Vercel (Recommended)
+
 ```bash
 npm install -g vercel
 vercel --prod
 ```
 
 ### Docker
+
 ```bash
 docker build -t mbti-test .
 docker run -p 3000:3000 mbti-test
 ```
 
 ### Environment Variables for Production
+
 ```env
 MONGODB_URI=mongodb+srv://...
 OPENROUTER_API_KEY=sk-or-v1-...
@@ -220,6 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions or support:
+
 - Email: [admin@elysiatools.com](mailto:admin@elysiatools.com)
 - Website: [https://mbti.elysiatools.com](https://mbti.elysiatools.com)
 
@@ -242,3 +266,4 @@ For questions or support:
 ---
 
 **Take the test now**: [https://mbti.elysiatools.com](https://mbti.elysiatools.com) ✨
+**elysiatools**: [https://elysiatools.com](https://elysiatools.com)
