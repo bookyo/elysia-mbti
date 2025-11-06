@@ -130,7 +130,7 @@ async function importTestQuestions() {
 
     for (const lang of languages) {
       const fileName = `MBTI_TEST_${lang}.md`;
-      const filePath = path.join(process.cwd(), '..', fileName);
+      const filePath = path.join(process.cwd(), fileName);
 
       if (fs.existsSync(filePath)) {
         const content = fs.readFileSync(filePath, 'utf-8');
@@ -182,7 +182,7 @@ async function importPersonalities() {
     for (const type of personalityTypes) {
       for (const lang of languages) {
         const fileName = `${type}_${lang}.md`;
-        const filePath = path.join(process.cwd(), '..', fileName);
+        const filePath = path.join(process.cwd(), fileName);
 
         if (fs.existsSync(filePath)) {
           const content = fs.readFileSync(filePath, 'utf-8');
