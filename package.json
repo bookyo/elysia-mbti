@@ -13,7 +13,7 @@
     "@tailwindcss/typography": "^0.5.19",
     "mongoose": "^8.19.2",
     "next": "16.0.7",
-    "next-intl": "^4.4.0",
+    "next-intl": "^4.5.8",
     "openai": "^6.8.1",
     "react": "19.2.1",
     "react-dom": "19.2.1",
